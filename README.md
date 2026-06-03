@@ -6,10 +6,16 @@ Certain features from Beta 1.8 have also been ported, which have been in develop
 
 What does Beta Recrafted add?
 
-Many things. For a full changelog, please refer to the forums post: <Coming Soon>
+Many things. For a full changelog, please refer to the forums post: Coming Soon
 
 The most prominent features include:
-<Check Back Later>
+* Creative Mode
+* Proper sky dimension
+* Extended progression with a new tier beyond diamond: Obsidian tools. Obtained by using resources from all three dimensions (this is a scrapped idea from Minecraft Infinite)
+* Improved vanilla biomes
+* Improved combat mechanics
+* Additional wood types
+* More building blocks such as stone bricks, additional slab and stair types etc.
 
 How do I install Beta Recrafted?
 
