@@ -28,4 +28,4 @@ The easiest way is through MultiMC:
 
 Will this mod receive more updates in the future?
 
-This mod is currently supported, but it is intended to ahve a shorter lifespan, much like its sister project, Alpha Recrafted. It is meant to be a smaller, more vanilla-friendly mod, without adding too much "bloat". That being said, I am going to be more lenient with content additions than I was with Alpha Recrafted.
+This mod is currently supported, but it is intended to have a shorter lifespan, much like its sister project, Alpha Recrafted. It is meant to be a smaller, more vanilla-friendly mod, without adding too much "bloat". That being said, I am going to be more lenient with content additions than I was with Alpha Recrafted.
