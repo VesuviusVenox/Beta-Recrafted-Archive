@@ -19,12 +19,12 @@ How do I install Beta Recrafted?
 
 The easiest way is through MultiMC:
 
-Download any version of your choice (I always recommend the latest, or v1.7.4 if you want the most vanilla experience with just the quality of life stuff)
-Make a new Beta 1.7.3 instance in MultiMC
-Click "Edit instance"
-Go to the "Version" tab
-Click on "Add to jar" on the right-hand ribbon and select the jar you just downloaded
-Make sure you put the following in JVM arguments while still in the version tab: -Djava.util.Arrays.useLegacyMergeSort=true
+* Download any version of your choice (I always recommend the latest, or v1.7.4 if you want the most vanilla experience with just the quality of life stuff)
+* Make a new Beta 1.7.3 instance in MultiMC
+* Click "Edit instance"
+* Go to the "Version" tab
+* Click on "Add to jar" on the right-hand ribbon and select the jar you just downloaded
+* Make sure you put the following in JVM arguments while still in the version tab: -Djava.util.Arrays.useLegacyMergeSort=true
 
 Will this mod receive more updates in the future?
 
