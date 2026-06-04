@@ -13,9 +13,7 @@ The most prominent features include:
 * Proper sky dimension
 * Extended progression with a new tier beyond diamond: Obsidian tools. Obtained by using resources from all three dimensions (this is a scrapped idea from Minecraft Infinite)
 * Improved vanilla biomes
-* Improved combat mechanics
-* Additional wood types
-* More building blocks such as stone bricks, additional slab and stair types etc.
+* More building blocks such as stone bricks, additional wood, slab and stair variants etc.
 
 How do I install Beta Recrafted?
 
