@@ -19,7 +19,7 @@ How do I install Beta Recrafted?
 
 The easiest way is through MultiMC:
 
-* Download any version of your choice (I always recommend the latest, or v1.7.4 if you want the most vanilla experience with just the quality of life stuff)
+* Download any version of your choice (I always recommend the latest, or v1.7.4_01 if you want the most vanilla experience with just the quality of life stuff)
 * Make a new Beta 1.7.3 instance in MultiMC
 * Click "Edit instance"
 * Go to the "Version" tab
