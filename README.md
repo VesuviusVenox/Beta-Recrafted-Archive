@@ -6,7 +6,7 @@ Certain features from Beta 1.8 have also been ported, which have been in develop
 
 What does Beta Recrafted add?
 
-Many things. For a full changelog, please refer to the forums post: Coming Soon
+Many things. For a full changelog, please refer to the forums post: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/3229172-legacy-beta-recrafted-a-mod-that-revives-beta-1-7
 
 The most prominent features include:
 * Creative Mode
