@@ -11,6 +11,7 @@ Many things. For a full changelog, please refer to the forums post: https://www.
 The most prominent features include:
 * Creative Mode
 * Proper sky dimension
+* Nether improvements
 * Extended progression with a new tier beyond diamond: Obsidian tools. Obtained by using resources from all three dimensions (this is a scrapped idea from Minecraft Infinite)
 * Improved vanilla biomes
 * More building blocks such as stone bricks, additional wood, slab and stair variants etc.
