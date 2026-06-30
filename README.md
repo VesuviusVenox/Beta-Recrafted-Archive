@@ -16,7 +16,7 @@ The most prominent features include:
 * Extended progression with a new tier beyond diamond: Obsidian tools. Obtained by using resources from all three dimensions (this is a scrapped idea from Minecraft Infinite)
 * Improved vanilla biomes
 * More building blocks such as stone bricks, additional wood, slab and stair variants etc.
-* "Sprinting" by drinking milk
+* Temporary speed boost by drinking milk
 * Beta 1.8 bows. The original bows have been reworked as a new bow type, obsidian bow, which also shoots flaming arrows. 
 
 
