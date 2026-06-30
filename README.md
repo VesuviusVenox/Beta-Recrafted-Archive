@@ -12,12 +12,18 @@ Many things. For a full changelog, please refer to the forums post: https://www.
 The most prominent features include:
 * Creative Mode
 * Proper sky dimension
-* Nether improvements
+* Nether improvements (new mushroom type, new ore and a "Dungeon") 
 * Extended progression with a new tier beyond diamond: Obsidian tools. Obtained by using resources from all three dimensions (this is a scrapped idea from Minecraft Infinite)
 * Improved vanilla biomes
 * More building blocks such as stone bricks, additional wood, slab and stair variants etc.
 * Temporary speed boost by drinking milk
-* Beta 1.8 bows. The original bows have been reworked as a new bow type, obsidian bow, which also shoots flaming arrows. 
+* Beta 1.8 bows. The original bows have been reworked as a new bow type, obsidian bow, which also shoots flaming arrows.
+* Armored mobs
+* Flat world type for testing purposes
+* Naturally generated houses with basic loot, using actual notch code.
+* Faster smelter (hellforge obtained from the nether)
+* Improvements to zombies. They can now spawn wearing armor, and each zombie holds a random tool, which determines what item it drops, to make them more useful.
+* LOTS of quality of life improvements
 
 
 How do I install Beta Recrafted?
