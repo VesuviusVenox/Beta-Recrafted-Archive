@@ -39,4 +39,4 @@ The easiest way is through MultiMC:
 
 Will this mod receive more updates in the future?
 
-No, I have no plans to keep updating this mod, as I feel like I have done enough to improve the core gameplay, whilst keeping it intact. Anything more that I add could very well become "bloat".
+No, I have no plans to keep updating this mod, as I feel like I have done enough to improve the core gameplay, whilst keeping it intact. Anything more that I add could very well be constituted as "bloat".
